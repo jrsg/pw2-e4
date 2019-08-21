@@ -1,10 +1,10 @@
 # Instrucciones
 SIN MODIFICAR el código HTML del ejercicio, crea las reglas de estilo y selectores CSS necesarios en base a las siguientes instrucciones:
 
-1. Cambia el color de fondo (background-color) de las casas de la siguiente manera:
-   1. Casa 1 color ```#FFEFE4```
-   2. Casa 2 color ```#7CAFB2```
-   3. Casa 3 color ```#E4FDFF```
+1. Cambia el color de fondo (background-color) de los lotes de la siguiente manera:
+   1. Lote 1 color ```#FFEFE4```
+   2. Lote 2 color ```#7CAFB2```
+   3. Lote 3 color ```#E4FDFF```
 2. A todos los títulos nivel 1, cambia el color de fuente a ```#B29D8E```, alinea el texto al centro y aplica efecto de sombra con la configuración que gustes.
 3. Transforma a mayúsculas el texto de todas las personas.
 4. Aplica el color ```#0000ff``` de fuente a todos los hombres.
